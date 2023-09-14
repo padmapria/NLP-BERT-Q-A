@@ -1,5 +1,7 @@
 data/
-
+cache_dir/
+outputs/
+runs/
 
 
 sync.expect
