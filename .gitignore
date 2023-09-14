@@ -1,8 +1,9 @@
 data/
 cache_dir/
-outputs/
+outputs/checkpoint-*/
+outputs/pytorch_model.bin
 runs/
-
+outputs/best_model/
 
 sync.expect
 
